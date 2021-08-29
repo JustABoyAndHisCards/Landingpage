@@ -140,11 +140,12 @@
     content: "";
     display: block;
     position: absolute;
-    border: 2px solid var(--hover-color);
     border-radius: 100%;
-    height: 2px;
-    top: -6px;
+    height: 4px;
+    width: 4px;
+    top: -2px;
     right: -3px;
+    background: var(--hover-color);
 }
 
 .header__nav-option {
