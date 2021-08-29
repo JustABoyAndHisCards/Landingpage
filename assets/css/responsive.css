@@ -16,6 +16,7 @@
     }
     .header__wrap {
         margin: 0;
+        flex: 0.95;
     }
     .header__nav-list {
         display: none;
