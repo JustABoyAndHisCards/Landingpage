@@ -1,6 +1,10 @@
 /* Mobile */
 
 @media (max-width:739px) {
+    .app {
+        margin: 0 4px;
+    }
+    
     .hide-on-mobile {
         display: none;
     }
