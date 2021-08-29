@@ -30,10 +30,10 @@
     .header__nav-option {
         display: none;
     }
-    .discovery__item-text {
+/*     .discovery__item-text {
         margin: 35px;
         -webkit-line-clamp: 4;
-    }
+    } */
     .nav-option__box--mobile {
         width: 215%;
     }
@@ -71,7 +71,7 @@
     .discovery__item-text {
         margin-top: 125px;
         line-height: 1.6;
-        -webkit-line-clamp: 6;
+        -webkit-line-clamp: 4;
     }
     .discovery__item {
         height: 298px;
